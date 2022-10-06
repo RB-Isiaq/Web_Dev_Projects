@@ -1,0 +1,68 @@
+body {
+    width: 100%;
+    background-color: #f1f2f3;
+    font-size: 18px;
+  
+  }
+  
+  #image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    padding: 20px auto;
+    width: 90%;
+    margin: 20px auto;
+  }
+  
+  main {
+    width: 90%;
+    margin: 20px auto;
+  }
+  h1, h2 {
+    text-align: center;
+    font-family: tahoma, sans-serif;
+  }
+  .frn {
+    font-size: 20px;
+     text-align: center;
+     margin: 0 0 25px 0;
+  }
+  figcaption {
+    text-align: center;
+    margin-top: -5px;
+    padding-bottom: 10px;
+    color: #0f0f3f;
+    font-size: 20px;
+  }
+  div {
+    background-color: white;
+    padding: 10px 0 0 0;
+    width: 90%;
+    margin: 0 auto 30px;
+  }
+  article {
+    line-height: 1.5em;
+    width: 85%;
+    margin: 0 auto;
+    font-size: 20px;
+  
+  
+  }
+  li {
+    margin: 15px 0;
+  }
+  
+  .quote {
+    font-style: italic;
+    width: 85%;
+    margin: 10px auto;
+    text-align: center;
+     font-size: 19px;
+  }
+  .copy {
+    font-size: 23px;
+    text-align: center;
+  }
+  ol li {
+    margin: 5px;
+  }
